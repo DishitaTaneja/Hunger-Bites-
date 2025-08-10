@@ -63,3 +63,4 @@ food/
 **Crafted with ❤️ by Dishita Taneja**
 
 Update 1
+Update 2
