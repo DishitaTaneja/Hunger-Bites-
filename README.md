@@ -187,3 +187,35 @@ Enter the classic sequence ↑↑↓↓←→←→BA to unlock a fun surprise n
 **Crafted with passion ❤️ by Dishita Taneja**
 
 *Experience the future of online food ordering with HungerBites – a perfect blend of flavor and functionality.*
+# 🍔 HungerBites
+
+HungerBites is a responsive food delivery website built with **HTML**, **CSS**, and **JavaScript**.  
+It showcases a modern UI, interactive menu filtering, and a shopping cart system.
+
+## ✨ Features
+- Mobile-friendly, responsive design
+- Category-based menu filtering
+- Interactive shopping cart
+- Smooth animations and clean layout
+
+## 📂 File Structure
+```
+food/
+├── index.html          # Main HTML file
+├── style.css           # Main stylesheet
+├── enhanced-colors.css # Color scheme stylesheet
+├── script.js           # JavaScript for interactivity
+├── images              # Food and UI images
+└── README.md           # Project documentation
+```
+
+## 🚀 How to Run
+1. Clone or download the repository.
+2. Open `index.html` in any modern web browser.
+
+## 🌐 Live Demo
+*Add your GitHub Pages link here after deployment.*
+
+---
+
+**Developed by Dishita Taneja**
