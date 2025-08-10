@@ -55,11 +55,14 @@ food/
 - Customer testimonials section
 
 
+## Live Link
+[Click here to view the site](https://dishitataneja.github.io/food/)
+
+
 ## 📞 Contact
 
 **Developer**: Dishita Taneja
 
 
 **Crafted with ❤️ by Dishita Taneja**
-
 
